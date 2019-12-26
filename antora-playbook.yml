@@ -11,8 +11,8 @@ content:
   - url: https://github.com/nshb/antora-demo-component-a.git
     branches: master
   #- url: https://gitlab.com/antora/demo/demo-component-b.git
-  - https://github.com/nshb/antora-demo-component-b.git
     #branches: [v2.0, v1.0]
+  - url: https://github.com/nshb/antora-demo-component-b.git
     branches: master
     start_path: docs
 ui:
